@@ -1,0 +1,6 @@
+.DS_store
+.vscode
+.idea
+.venv
+logs
+/*.exe.stackdump
